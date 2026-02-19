@@ -17,9 +17,13 @@ I originally modified this app strictly for my own personal use to watch safely 
 
 ## Download
 
-You can download the modified APK from either of the links below:
+You can download the modified APK from any of the links below:
 
 [![Download from MediaFire](https://img.shields.io/badge/Download-MediaFire-1D7CE4?style=for-the-badge)](https://www.mediafire.com/file/zvsynw4xwmpy4si/MovieBox_mod_by_MSR_Sakibur.aka.msrpatch.apk/file)
+
+[![Download from MEGA](https://img.shields.io/badge/Download-MEGA-D9272E?style=for-the-badge)](https://mega.nz/file/KiJVDCKA#ojypeCN6f-3x0ZEsMV_kD30WBq9k-5pEeOU61gmjK0I)
+
+[![Download from Catbox](https://img.shields.io/badge/Download-Catbox-4B4B4B?style=for-the-badge)](https://files.catbox.moe/2obq4a.apk)
 
 [![Download from SFile](https://img.shields.io/badge/Download-SFile-28A745?style=for-the-badge)](https://sfile.co/OlRKTWFmJGM)
 

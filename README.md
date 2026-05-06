@@ -2,9 +2,9 @@
   <img src="Picsart_26-05-06_09-13-21-341.png" width="120" alt="MovieBox Logo">
   
   <h2>What is MovieBox Mod?</h2>
-  <p>MovieBox is a free Android application designed for watching and downloading movie series,anime and many more.</p>
+  <p>MovieBox is a popular third-party streaming application for Android, Windows, and Firestick that allows users to watch and download a vast library of movies, TV series, anime, and live content.</p>
   
-  <p><b>If you find this project useful,!</p>
+  <p><b>*If you find this project useful, please consider giving this repository a star (⭐).*</p>
 </div>
 
 <br>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="left"><b>Visitors</b></td>
-    <td align="center"><img src="https://komarev.com/ghpvc/?username=msrofficial-Moviebox-Mod&color=blue&style=flat-square&label=VISITORS" alt="Visitor Count"></td>
+    <td align="center"><img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/Moviebox-Mod&label=Visitors&labelColor=blue&countColor=%23555555&style=flat" alt="Visitors"/></td>
   </tr>
   <tr>
     <td align="left"><b>Last Update</b></td>

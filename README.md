@@ -2,10 +2,6 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=msrofficial.Moviebox-Mod)
 
-The official MovieBox app and many random mods found online are privacy nightmares. They track your data heavily and ask for completely unnecessary permissions for a streaming app, such as accessing your Camera, Microphone, precise Location, and Contacts. On top of that, they are packed with aggressive ad networks and locked premium features.
-
-I originally modified this app strictly for my own personal use to watch safely without compromising my data. I am sharing it here for anyone who wants a clean, secure, and uninterrupted experience.
-
 ## Modifications & Features
 
 * **Premium Unlocked:** All VIP content and highest playback resolutions are fully accessible.
@@ -19,13 +15,7 @@ I originally modified this app strictly for my own personal use to watch safely 
 
 You can download the modified APK from any of the links below:
 
-[![Download from MediaFire](https://img.shields.io/badge/Download-MediaFire-1D7CE4?style=for-the-badge)](https://www.mediafire.com/file/zvsynw4xwmpy4si/MovieBox_mod_by_MSR_Sakibur.aka.msrpatch.apk/file)
-
-[![Download from MEGA](https://img.shields.io/badge/Download-MEGA-D9272E?style=for-the-badge)](https://mega.nz/file/KiJVDCKA#ojypeCN6f-3x0ZEsMV_kD30WBq9k-5pEeOU61gmjK0I)
-
-[![Download from Catbox](https://img.shields.io/badge/Download-Catbox-4B4B4B?style=for-the-badge)](https://files.catbox.moe/2obq4a.apk)
-
-[![Download from SFile](https://img.shields.io/badge/Download-SFile-28A745?style=for-the-badge)](https://sfile.co/OlRKTWFmJGM)
+[![Download from GitHub](https://img.shields.io/badge/Download-MediaFire-1D7CE4?style=for-the-badge)](https://github.com/msrofficial/Moviebox-Mod/releases/download/3.0.15.0429.04/MovieBox_Premium.By.MSRPatcH.3.0.15.0429.03.apk)
 
 ## Disclaimer
 

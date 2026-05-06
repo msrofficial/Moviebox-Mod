@@ -3,8 +3,27 @@
   
   <h2>What is MovieBox Mod?</h2>
   <p>MovieBox is a popular third-party streaming application for Android, Windows, and Firestick that allows users to watch and download a vast library of movies, TV series, anime, and live content.</p>
+
+<details>
+<summary><b>Mod Features:</summary>
+<br>
+
+If you want to log in using your Google Account, follow these steps exactly:
+
+1. Install the **Official Anilab APK** (from *anilab.to*).
+2. Log in with your preferred Google account.
+3. Wait for about 3 seconds to ensure the login data is cached.
+4. **Uninstall** the Official APK.
+5. Install the **Anilab Mod APK**.
+6. Immediately open the mod and log in using the same Google account.
+
+</details>
+Click on the lines above to see the details.
+<br>
   
-  <p><b>*If you find this project useful, please consider giving this repository a star (⭐).*</p>
+  <p>
+    *If you find this project useful, please consider giving this repository a star (⭐).*
+  </p>
 </div>
 
 <br>

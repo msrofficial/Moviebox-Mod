@@ -1,22 +1,100 @@
-# MovieBox Privacy Mod & Premium Unlocked
+<div align="center">
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=msrofficial.Moviebox-Mod)
+<img src="https://raw.githubusercontent.com/msrofficial/Anilab-Mod/main/assets/mediamodifier_cropped_image.png" width="120"  alt="Anilab Mod Logo">
+
+# Anilab Mod
+
+[![GitHub Release](https://img.shields.io/github/v/release/msrofficial/Anilab-Mod?style=for-the-badge&color=blue)](https://github.com/msrofficial/Anilab-Mod/releases)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/msrofficial/Anilab-Mod?style=for-the-badge&color=orange)](https://github.com/msrofficial/Anilab-Mod/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/msrofficial/Anilab-Mod?style=for-the-badge&color=yellow)](https://github.com/msrofficial/Anilab-Mod/stargazers)
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-@msrpatch-blue?style=flat-square&logo=telegram)](https://t.me/msrpatch)
+<img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/Anilab-Mod&label=Visitors&labelColor=blue&countColor=%23555555&style=flat" alt="Visitors"/>
+<a href="https://github.com/msrofficial/Anilab-Mod/releases">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000&color=orange" alt="Total Downloads"/>
+</a>
+
+*If you find this project useful, please consider giving this repository a star (⭐).*
+
+</div>
+
+---
+
+**Anilab Mod** is a modified version of the latest Anilab Android app designed to enhance your anime streaming experience. It restores the internal video player, removes forced external player requirements, and bypasses AdBlock/custom DNS restrictions—allowing you to stream seamlessly without interruptions.
+
+### Latest Update (06 Feb 2026)
+> **New App Icon** You can now use the app with any private DNS (AdGuard, NextDNS) or VPN adblockers without triggering the annoying "AdBlocker detected" warning.
+
+---
 
 ## Modifications & Features
 
 * **Premium Unlocked:** All VIP content and highest playback resolutions are fully accessible.
-* **100% Ad-Free:** Completely stripped out all ad networks (AppLovin, Unity, Facebook Ads, IronSource, etc.).
-* **Total Privacy:** Removed all suspicious and unnecessary permissions (Zero access to your Camera, Mic, Location, or Contacts).
-* **No Trackers:** Analytics, data harvesting, and telemetry are completely disabled.
+* **High-quality Downloads:** 1080p Unlocked with multiple episodes download support.
+* **100% Ad-Free:** Removed All ads.
 * **No Forced Updates:** Bypassed the mandatory update screen forever.
-* **Clean & Lightweight:** Disabled unnecessary background services and annoying persistent foreground notifications.
+* **Clean & Lightweight:** Disabled unnecessary background services and annoying persistent foreground.
 
-## Download
+<details>
+<summary><b>Installation Guide</b></summary>
+<br>
 
-You can download the modified APK from any of the links below:
+1. Download the latest APK from the section below.
+2. Enable **"Unknown Sources"** or **"Install Unknown Apps"** in your Android device settings.
+3. Install the APK file.
+4. Open the app and start streaming!
 
-[![Download from GitHub](https://img.shields.io/badge/Download-MediaFire-1D7CE4?style=for-the-badge)](https://github.com/msrofficial/Moviebox-Mod/releases/download/3.0.15.0429.04/MovieBox_Premium.By.MSRPatcH.3.0.15.0429.03.apk)
+</details>
 
-## Disclaimer
+<details>
+<summary><b>Google Account Sign-In Method</summary>
+<br>
 
-This modification is provided for educational purposes and personal privacy protection. I do not host or own any of the video content provided within the app.
+If you want to log in using your Google Account, follow these steps exactly:
+
+1. Install the **Official Anilab APK** (from *anilab.to*).
+2. Log in with your preferred Google account.
+3. Wait for about 3 seconds to ensure the login data is cached.
+4. **Uninstall** the Official APK.
+5. Install the **Anilab Mod APK**.
+6. Immediately open the mod and log in using the same Google account.
+
+</details>
+Click on any of the lines above to see the details.
+<br>
+
+---
+
+<div align="center">
+  <a href="https://github.com/msrofficial/Moviebox-Mod/releases/download/3.0.15.0429.04/MovieBox_Premium.By.MSRPatcH.3.0.15.0429.03.apk">
+    <img src="https://img.shields.io/badge/Download_MovieBox_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download MovieBox Mod Apk">
+  </a><br>
+  <a href="https://github.com/msrofficial/Moviebox-Mod/releases">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DAnilab-Mod%26base%3D10000&style=for-the-badge&label=Total%20Downloads" alt="Total Downloads"/>
+</a>
+  </a>
+  <br>
+</div>
+
+---
+
+## Community & Support
+Looking for a better community for Anilab users? Join us for the latest updates, mod requests, and discussions:
+
+<div align="center">
+
+| Anilab Plus Community | MSR PatcH (Main Channel) |
+| :---: | :---: |
+| [![Anilab Plus](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@anilabplus&style=for-the-badge&label=%20Anilab%20Plus%20&color=EC4899)](https://t.me/anilabplus) | [![MSR PatcH](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@msrpatch&style=for-the-badge&label=%20MSR%20PatcH%20&color=8B5CF6)](https://t.me/msrpatch) |
+
+</div>
+
+---
+
+## Credits
+* **Mod Developer:** [MD Sakibur Rahman (MSR)](https://msrofficial.github.io)
+
+---
+<div align="center">
+<i><b>Disclaimer:</b> This is an unofficial modification. It is intended for educational and personal use only. We are not affiliated with the official Anilab team.</i>
+</div>

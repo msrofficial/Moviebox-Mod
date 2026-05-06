@@ -4,7 +4,7 @@
   <h2>What is MovieBox Mod?</h2>
   <p>MovieBox is a popular third-party streaming application for Android, Windows, and Firestick that allows users to watch and download a vast library of movies, TV series, anime, and live content.</p>
 
-<p> Mod features: New Icon, Premium Unlocked,1080p+ streaming and download,No ads</p>
+<p><b> Mod features: New Icon, Premium Unlocked,1080p+ streaming and download,No ads</b></p>
   
   <p>
     If you find this project useful, please consider giving this repository a star (⭐).
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td align="left"><b>App version</b></td>
-    <td align="center">6.6.5</td>
+    <td align="center">3.0.15.0429.03</td>
   </tr>
   <tr>
     <td align="left"><b>Requirement</b></td>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images.jpeg" width="120" alt="MangaZone Logo">
+  <img src="Picsart_26-05-06_09-13-21-341.png" width="120" alt="MovieBox Logo">
   
   <h2>What is MovieBox Mod?</h2>
   <p>MovieBox is a free Android application designed for watching and downloading movie series,anime and many more.</p>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td align="left"><b>Size</b></td>
-    <td align="center">45MB+</td>
+    <td align="center">50MB+</td>
   </tr>
   <tr>
     <td align="left"><b>Category</b></td>
@@ -53,8 +53,8 @@
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="Screenshot_20260424-102826.png" width="48%">
-      <img src="Screenshot_20260424-102841.png" width="48%">
+      <img src="Screenshot_20260507-000411.png" width="48%">
+      <img src="Screenshot_20260507-000620.png" width="48%">
     </td>
   </tr>
 </table>

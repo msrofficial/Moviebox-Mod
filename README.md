@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td align="left"><b>App version</b></td>
-    <td align="center">3.0.15.0429.03</td>
+    <td align="center">3.0.15.0429.06</td>
   </tr>
   <tr>
     <td align="left"><b>Requirement</b></td>
@@ -65,7 +65,7 @@
 
 <div align="center">
   <br>
-  <a href="https://github.com/msrofficial/Moviebox-Mod/releases/download/3.0.15.0429.05/MovieBox_Premium.By.MSRPatcH.3.0.15.0429.05.apk">
+  <a href="https://github.com/msrofficial/Moviebox-Mod/releases/download/3.0.15.0429.06/MovieBox_Premium.By.MSRPatcH.custom_folder_mod.apk">
     <img src="https://img.shields.io/badge/Download_MovieBox _Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download MovieBox Mod Apk">
   </a>
   <br><br>
